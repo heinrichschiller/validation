@@ -13,7 +13,7 @@ use Selective\Validation\Transformer\ErrorDetailsResultTransformer;
 /**
  * Tests.
  */
-#[CoversClass('ValidationExceptionMiddleware')]
+#[CoversClass(ValidationExceptionMiddleware::class)]
 class ValidationExceptionMiddlewareTest extends TestCase
 {
     use MiddlewareTestTrait;

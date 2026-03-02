@@ -10,7 +10,7 @@ use UnexpectedValueException;
 /**
  * Tests.
  */
-#[CoversClass('JsonEncoder')]
+#[CoversClass(JsonEncoder::class)]
 class JsonEncoderTest extends TestCase
 {
     /**

@@ -9,7 +9,7 @@ use Selective\Validation\ValidationError;
 /**
  * Tests.
  */
-#[CoversClass('ValidationError')]
+#[CoversClass(ValidationError::class)]
 class ValidationErrorTest extends TestCase
 {
     /**

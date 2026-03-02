@@ -10,7 +10,7 @@ use Selective\Validation\Test\TestService;
 /**
  * Tests.
  */
-#[CoversClass('ValidationException')]
+#[CoversClass(ValidationException::class)]
 class ValidationExceptionTest extends TestCase
 {
     /**

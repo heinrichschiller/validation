@@ -10,7 +10,7 @@ use Selective\Validation\ValidationResult;
 /**
  * ValidationResult tests.
  */
-#[CoversClass('ValidationResult')]
+#[CoversClass(ValidationResult::class)]
 class ValidationResultTest extends TestCase
 {
     /**
