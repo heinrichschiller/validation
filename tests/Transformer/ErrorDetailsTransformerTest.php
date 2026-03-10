@@ -10,7 +10,7 @@ use Selective\Validation\ValidationResult;
 /**
  * Tests.
  */
-#[CoversClass('ErrorDetailsResultTransformer')]
+#[CoversClass(ErrorDetailsResultTransformer::class)]
 class ErrorDetailsTransformerTest extends TestCase
 {
     /**
