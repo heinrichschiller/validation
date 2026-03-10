@@ -17,7 +17,7 @@
         "psr/http-server-middleware": "^1.0.1"
     },
     "require-dev": {
-        "cakephp/validation": "^4.2",
+        "cakephp/validation": "^5.3",
         "fig/http-message-util": "^1.1",
         "friendsofphp/php-cs-fixer": "^3",
         "nyholm/psr7": "^1.4",
